@@ -88,6 +88,15 @@ body {
 
  /*Project Page*/
 
+
+ .hhPic{
+     height:100%;
+     width: 100%;
+     border-style: double;
+     border-radius: 8px;
+    padding: 2px;
+ }
+
  .projectHead {
 
      margin-left: 50px ;
@@ -97,13 +106,11 @@ body {
 
 .hsj{
 
-    margin-left: 5px;
-    max-width: 450px;
-    max-height: 500px;
-    border-radius: 8px;
-    padding: 10px;
-    display: inline-block;
+    height:100%;
+    width: 100%;
     border-style: double;
+    border-radius: 8px;
+    padding: 2px;
     
 }
 
